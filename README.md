@@ -1,7 +1,7 @@
 # Forensic Tool
 *Group assignment for the Data Forensics module (University of Limerick)*
 
-Forensic tool to identify disk partitions and volume information of a given disk image.
+Forensic tool to identify the disk partitions and volume information of a given disk image.
 
 **Partitions information:** 
 - number of partition, 
